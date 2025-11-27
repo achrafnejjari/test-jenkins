@@ -5,6 +5,7 @@ public class Test2 {
         System.out.println("achraf nj !!");
 
         System.out.println("hi");
+        System.out.println("hhhhhhhhh");
     }
 
 
